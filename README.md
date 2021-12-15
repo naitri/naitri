@@ -14,9 +14,6 @@
 
 [![Naitri's github stats](https://github-readme-stats.vercel.app/api?username=naitri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-![](https://komarev.com/ghpvc/?username=naitri&color=blue)
-
-
 <!---
 naitri/naitri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
