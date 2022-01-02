@@ -1,7 +1,7 @@
 ### Hi there, I am Naitri👋
 
 
-- I’m interested in Robotics, Machine Learning and AI.
+- I’m interested in Robotics, Computer Vision and Motion Planning
 - I’m a Masters in Robotics Student at University Of Maryland.
 - You can reach me at [naitrir21@gmail.com](naitrir21@gmail.com)
 
